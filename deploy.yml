@@ -1,0 +1,7 @@
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+  // Set this to your GitHub repo name, e.g. '/my-game/'
+  // If your repo is at github.com/yourname/zephyrax, set base: '/zephyrax/'
+  base: './',
+});
